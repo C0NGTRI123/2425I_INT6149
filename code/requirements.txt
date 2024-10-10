@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 pip-upgrader
+=======
+>>>>>>> origin/main
 streamlit==1.1.0
 streamlit_chat==0.0.2.2
 neo4j==5.9.0
